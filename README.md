@@ -111,6 +111,6 @@ Best Model:
 Random Forest Tuned
 
 Performance:
-Accuracy: XX%
-F1 Score: XX%
+Accuracy: 76.87%
+F1 Score: 0.6269
 
